@@ -1,5 +1,5 @@
 baseurl = "https://kvar-ispw17.github.io"
-title = "Welcome to My World"
+title = "Kvar_ispw17's Site"
 copyright = "Copyright (c) 2017 - 2018, all rights reserved."
 languageCode = "en-US"
 canonifyurls = true
@@ -12,7 +12,7 @@ disqusShortname = ""
 SectionPagesMenu = "main"
 
 # use Chroma for syntax highlight
-pygmentsStyle = "native" # other dark style options: vim, fruity, monokai
+pygmentsStyle = "vim" # other dark style options: vim, fruity, monokai
 # enable syntax highlight for code blocks
 pygmentsCodeFences = true
 
