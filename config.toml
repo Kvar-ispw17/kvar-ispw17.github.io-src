@@ -1,6 +1,6 @@
-baseurl = "https://kvar-ispw17.github.io"
-title = "Kvar_ispw17's Site"
-copyright = "Copyright (c) 2017 - 2018, all rights reserved."
+baseurl = "http://kvar-ispw17.tk"
+title = "KiLEx Studio's"
+copyright = "Copyright (c) 2017 - 2018, Kvar_ispw17 all rights reserved."
 languageCode = "en-US"
 canonifyurls = true
 paginate = 3
@@ -22,18 +22,24 @@ pygmentsCodeFences = true
   identifier = "post"
   url = "/post/"
 
+#[[menu.main]]
+#  name = "Tags"
+#  weight = -110
+#  identifier = "tag"
+#  url = "/tags/"
+
 [[menu.main]]
-  name = "Tags"
+  name = "About"
   weight = -110
-  identifier = "tag"
-  url = "/tags/"
+  identifier = "about"
+  url = "/about/"
 
 [author]
   name = ""
 
 [params.meta]
   keywords = ""
-  description = "Personal Website"
+  description = "KiLEx Studio's Official Website"
 
 [params]
   email = "enkerewpo@gmail.com"
@@ -45,7 +51,7 @@ pygmentsCodeFences = true
 [params.colors]
   # hugo-dusk colors
   background = "#101010" # background color for the site
-  main = "#99cc66"
+  main = "#ff5c00"
   text = "#dbdbdb"
   code-quote-bg = "#1D1F21" # background color for quotes and code blocks
   copyright = "#404040" # copyright text color
