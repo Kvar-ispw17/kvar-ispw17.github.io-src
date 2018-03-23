@@ -1,0 +1,48 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="author" content="{{ .Site.Author.name }}" />
+  <meta name="description" content="{{ .Site.Params.meta.description }}" />
+  <meta name="keywords" content="{{ .Site.Params.meta.keywords }}" />
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  {{ .Hugo.Generator }}
+
+  <link rel="canonical" href="{{ .Permalink }}">
+  <base href="{{ .Site.BaseURL }}" />
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/google_news.html" . }}
+  {{ template "_internal/schema.html" . }}
+
+  <link rel="stylesheet" href="css/layout.css" />
+  <style type="text/css">
+    {{ partial "theme-colors.css" . | safeCSS }}
+  </style>
+
+  {{ template "_internal/google_analytics_async.html" . }}
+
+  <title>
+    {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+    {{ if eq $url "/" }}
+    {{ .Site.Title }}
+    {{ else }}
+    {{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}
+    {{ end }}
+  </title>
+
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ showProcessingMessages: false, messageStyle: "none", context: "Browser", extensions: ["tex2jax.js"], jax: ["input/TeX", "output/HTML-CSS"], tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], displayMath: [ ['$$','$$'], ["\\[","\\]"]
+    ], processEscapes: true }, "HTML-CSS": { availableFonts: ["TeX"] }, "HTML-CSS": { showMathMenu: false } });
+  </script>
+  <style>
+    .MathJax_Display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    }
+    .MathJax {
+    outline: 0;
+    }
+  </style>
+  <script type="text/javascript" src="//cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
+
+</head>
