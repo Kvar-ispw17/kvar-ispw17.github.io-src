@@ -1,5 +1,5 @@
 baseurl = "http://kvar-ispw17.tk"
-title = "KiLEx Studio's"
+title = "KiLExq Studio's"
 copyright = "Copyright (c) 2017 - 2018, Kvar_ispw17 all rights reserved."
 languageCode = "en-US"
 canonifyurls = true
@@ -39,7 +39,7 @@ pygmentsCodeFences = true
 
 [params.meta]
   keywords = ""
-  description = "KiLEx Studio's Official Website"
+  description = "KiLExq Studio's Official Website"
 
 [params]
   email = "enkerewpo@gmail.com"
