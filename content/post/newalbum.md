@@ -33,7 +33,7 @@ Yes. Graystripe is a character in my favourite book Warriors wrote by Erin Hunte
 
 ## Winter
 
-This song is really old. I use the GarageBand on iPad to finish this song in 2014. This is one of my earliest songs so it's even recorded directly on my instrument instead of using MIDI to connect to the computer.
+This song is really old. I use GarageBand on iPad to finish this song in 2014. This is one of my earliest songs so it's even recorded directly on my instrument instead of using MIDI to connect to the computer.
 
 # Released Stores
 
