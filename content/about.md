@@ -8,6 +8,10 @@ Music works, Game works, Software works are independent parts of the products of
 
 <br/>
 
+#### Why this name?
+
+It's from a word "relax". I search "KiLExq" on Google and found that nobody used this name before (the name need to be unique and symbolic as I think).
+
 #### How to ask for detailed information about KiLExq Studio?
 
 Contact KiLExq Studio at [kilexqstudio@kvar-ispw17.tk](mailto:kilexqstudio@kvar-ispw17.tk).
