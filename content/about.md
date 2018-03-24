@@ -8,4 +8,4 @@ Music works, Game works, Software works are independent parts of the products of
 
 <br/>
 
-Contacting Kvar_ispw17 at [enkerewpo@gmail.com](mailto:enkerewpo@gmail.com)
+Contact KiLExq Studio at [kilexqstudio@kvar-ispw17.tk](mailto:kilexqstudio@kvar-ispw17.tk)
