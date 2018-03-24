@@ -1,3 +1,3 @@
 <div align="center">
-<p>"WELCOME TO MY AMAZING WORLD."<p>
+<p>"WELCOME TO THIS AMAZING WORLD."<p>
 </div>
