@@ -1,6 +1,6 @@
 @font-face {
     font-family: hand-local;
-    src: url("/fonts/hand.ttf");
+    src: url("https://kvar-ispw17.tk/fonts/hand.ttf");
 }
 
 body {
@@ -13,14 +13,16 @@ body {
 
 .main {
   margin: 0 auto;
-  max-width: 42em;
+  max-width: 65%;
 }
 
 img {
-  max-width: 42em;
+  max-width: 23em;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 figure {
@@ -29,12 +31,12 @@ figure {
 
 figcaption {
   text-align: center;
-  font-size: 0.9em;
+  font-size: 1.8em;
   font-weight: bold;
 }
 
 iframe {
-  max-width: 42em;
+  max-width: 84em;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -45,26 +47,27 @@ li {
 }
 
 p {
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  font-size: 2em;
+  padding-top: 0.0005em;
+  padding-bottom: 0.05em;
 }
 
-h1 { font-size: 2em;
+h1 { font-size: 4em;
      font-weight: normal;
 }
-h2 { font-size: 1.5em;
+h2 { font-size: 3.5em;
      font-weight: normal;
 }
-h3 { font-size: 1.17em;
+h3 { font-size: 2.34em;
      font-weight: normal;
 }
-h4 { font-size: 1.12em;
+h4 { font-size: 2.24em;
      font-weight: normal;
 }
-h5 { font-size: .83em;
+h5 { font-size: 1.66em;
      font-weight: normal;
 }
-h6 { font-size: .75em;
+h6 { font-size: 1.5em;
      font-weight: normal;
 }
 
@@ -89,7 +92,7 @@ nav {
 }
 
 .nav-item {
-  font-size: 1.2em;
+  font-size: 2.4em;
   text-decoration: none;
   font-weight: bold;
 }
@@ -129,7 +132,7 @@ th, td {
 
 /* site title  */
 .siteTitle {
-  font-size: 2.5em;
+  font-size: 5em;
   margin-bottom: 0.2em;
 }
 
@@ -185,13 +188,12 @@ th, td {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-
   margin: 1em;
 }
 
 .post-footer-data .date {
   font-weight: bold;
-  font-size: 0.9em;
+  font-size: 1.4em;
 }
 
 .post-footer-data .tags {
@@ -216,7 +218,7 @@ th, td {
   display: flex;
   justify-content: space-between;
 
-  font-size: 0.8em;
+  font-size: 1.6em;
   margin: 0.5em 4em;
 }
 
@@ -236,13 +238,13 @@ th, td {
 }
 
 .copyright {
-  font-size: smaller;
+  font-size: 1.6em;
   text-align: center;
   margin-top: 1em;
 }
 
 .poweredby {
-  font-size: smaller;
+  font-size: 1.6em;
   text-align: center;
 }
 
@@ -287,7 +289,7 @@ th, td {
 
 .social-link {
   margin: 0.2em;
-  font-size: 1.2em;
+  font-size: 2.4em;
 }
 
 .social-link:hover {
@@ -303,7 +305,7 @@ th, td {
 }
 
 .content-list-date {
-  font-size: 1.2em;
+  font-size: 2.4em;
   margin-top: 0.5em;
   text-align: center;
 }
@@ -342,12 +344,13 @@ th, td {
 }
 
 .post-preview .summary {
+  font-size: 2em;
   margin-top: 0.2em;
   line-height: 1.4em;
 }
 
 .post-preview .meta {
-  font-size: 0.8em;
+  font-size: 1.6em;
   font-weight: bold;
   padding-bottom: 0.3em;
   padding-top: 0.3em;
@@ -355,7 +358,7 @@ th, td {
 }
 
 .post-preview .tags {
-  font-size: 0.8em;
+  font-size: 1.6em;
   font-weight: bold;
   text-align: left;
 }
