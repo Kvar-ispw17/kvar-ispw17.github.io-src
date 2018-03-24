@@ -16,6 +16,11 @@ body {
   max-width: 65%;
 }
 
+hr {
+  width: 90%;
+  border-width: 0.01em;
+}
+
 img {
   max-width: 23em;
   display: block;
