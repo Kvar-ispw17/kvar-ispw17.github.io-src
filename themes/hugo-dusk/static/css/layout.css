@@ -16,6 +16,10 @@ body {
   max-width: 65%;
 }
 
+ul {
+  font-size: 2em;
+}
+
 hr {
   width: 90%;
   border-width: 0.01em;
