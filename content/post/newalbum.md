@@ -11,7 +11,7 @@ This album collected Kvar_ispw17's finest tracks from 2014 to 2017, released und
 
 ## 1-Moon
 
-This tracks was first appeared in my "Digital Monster: Tamer" album in 2015. The song is intended to describe an encounter with a grand moon pouring the moonlight in the room and clear the mood of the whole environment.
+This track was first appeared in my "Digital Monster: Tamer" album in 2015. The song is intended to describe an encounter with a grand moon pouring the moonlight in the room and clear the mood of the whole environment.
 
 ## 2-Stars
 
