@@ -22,6 +22,6 @@ First, this domain is fully functional and not too worse than other domain (Like
 
 Second, I'm still in high school with no job and I don't have any capital for doing this. The only income was from selling my music on the Internet music stores.
 
-#### Why there is few products here?
+#### Why there are few products here?
 
 The studio will go normal after I enter the university, when I would have time to do my hobby works (Impossible in high school). At that time, I will use my free time to work on my first studio production -> YES! AN INDIE GAME!
