@@ -7,7 +7,7 @@ paginate = 3
 theme = "hugo-dusk"
 
 googleAnalytics = ""
-disqusShortname = "kilexq-studio"
+disqusShortname = ""
 
 SectionPagesMenu = "main"
 
