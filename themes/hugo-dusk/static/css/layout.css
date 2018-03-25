@@ -8,7 +8,11 @@ body {
   counter-reset: heading;
   margin: 0;
   padding: 1em 0.5em 0.5em 0.5em;
+}
 
+
+div#disqus_thread{
+  font-size:1.5em;
 }
 
 .main {
