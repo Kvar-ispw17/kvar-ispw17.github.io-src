@@ -8,7 +8,7 @@ tags = ["Music",]
 
 This album collected Kvar_ispw17's finest tracks from 2014 to 2017, released under artist name "Kvar Ispw17" (aka. Ki17).
 
-"Soul & Life" has 6 tracks added up to about 20 minutes:
+"Soul & Life" has 6 tracks added up to 23 minutes and 51 seconds.
 
 # Tracks' Information
 
@@ -44,4 +44,4 @@ This song is really old. I use GarageBand on iPad to finish this song in 2014. T
 
 #### Global Music Stores
 
-<a href="https://itunes.apple.com/us/album/soul-life-ep/1360283667?app=music&ign-itsct=1360283667-1360283667&ign-itscg=0177&ign-mpt=uo%3D4" target="_blank">Apple Music & iTunes</a>, Google Play Music, Amazon Music and <a href="https://open.spotify.com/album/5AUiX7DDUY8ZGhF25vwXpp?si=O0xr-dx-S0mAFSa8dF5I4Q" target="_blank">Spotify</a>.
+<a href="https://itunes.apple.com/us/album/soul-life-ep/1360283667?app=music&ign-itsct=1360283667-1360283667&ign-itscg=0177&ign-mpt=uo%3D4" target="_blank">Apple Music & iTunes</a>, Google Play Music, <a href="https://www.amazon.com/Soul-Life-Kvar-Ispw17/dp/B07BNJ7JRS/ref=sr_1_1?s=dmusic&ie=UTF8&qid=1521972010&sr=1-1-mp3-albums-bar-strip-0&keywords=Kvar+Ispw17" target="_blank">Amazon Music</a> and <a href="https://open.spotify.com/album/5AUiX7DDUY8ZGhF25vwXpp?si=O0xr-dx-S0mAFSa8dF5I4Q" target="_blank">Spotify</a>.
