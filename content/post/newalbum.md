@@ -39,8 +39,8 @@ This song is really old. I use GarageBand on iPad to finish this song in 2014. T
 
 ## China Music Provider
 
-[Xiami Music](http://www.xiami.com/album/yhSwmlc704e).
+<a href="http://www.xiami.com/album/yhSwmlc704e" target="_blank">Xiami Music</a>
 
 ## Global Music Stores
 
-[Apple Music & iTunes](https://itunes.apple.com/us/album/soul-life-ep/1360283667?app=music&ign-itsct=1360283667-1360283667&ign-itscg=0177&ign-mpt=uo%3D4), Google Play Music, Amazon Music and [Spotify](https://open.spotify.com/album/5AUiX7DDUY8ZGhF25vwXpp?si=O0xr-dx-S0mAFSa8dF5I4Q).
+<a href="https://itunes.apple.com/us/album/soul-life-ep/1360283667?app=music&ign-itsct=1360283667-1360283667&ign-itscg=0177&ign-mpt=uo%3D4" target="_blank">Apple Music & iTunes</a>, Google Play Music, Amazon Music and <a href="https://open.spotify.com/album/5AUiX7DDUY8ZGhF25vwXpp?si=O0xr-dx-S0mAFSa8dF5I4Q" target="_blank">Spotify</a>.
