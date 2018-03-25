@@ -1,7 +1,8 @@
----
-title: "New Collection Album \"Soul & Life\" Global Released"
-date: 2018-03-22T22:34:53+08:00
----
++++
+title = "New Collection Album \"Soul & Life\" Global Released"
+date = 2018-03-22T22:34:53+08:00
+tags = ["Music",]
++++
 
 ![Cover.jpg](/images/Cover.jpg)
 
@@ -37,10 +38,10 @@ This song is really old. I use GarageBand on iPad to finish this song in 2014. T
 
 # Released Stores
 
-## China Music Provider
+#### China Music Provider
 
 <a href="http://www.xiami.com/album/yhSwmlc704e" target="_blank">Xiami Music</a>
 
-## Global Music Stores
+#### Global Music Stores
 
 <a href="https://itunes.apple.com/us/album/soul-life-ep/1360283667?app=music&ign-itsct=1360283667-1360283667&ign-itscg=0177&ign-mpt=uo%3D4" target="_blank">Apple Music & iTunes</a>, Google Play Music, Amazon Music and <a href="https://open.spotify.com/album/5AUiX7DDUY8ZGhF25vwXpp?si=O0xr-dx-S0mAFSa8dF5I4Q" target="_blank">Spotify</a>.
