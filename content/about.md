@@ -6,10 +6,6 @@ KiLExq Studio <font size=5>/ ki-laks stoo-dee-oh /</font> is a **Music**, **Game
 
 Music works, Game works, Software works are independent parts of the products of KiLExq Studio.
 
-Website:
-
-Indienova: <a href="https://kilexqstudio.indienova.com/" target="_blank">KiLExq Studio</a>.
-
 <br/>
 
 #### Why this name?

@@ -10,6 +10,11 @@ body {
   padding: 1em 0.5em 0.5em 0.5em;
 }
 
+ol{
+  margin-top: 0px;
+  margin-bottom:0px;
+  font-size:1.7em;
+}
 
 div#disqus_thread{
   font-size:1.5em;
