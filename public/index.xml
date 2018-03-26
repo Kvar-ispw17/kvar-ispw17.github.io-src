@@ -36,5 +36,15 @@ Why this name? It&amp;rsquo;s from a word &amp;ldquo;relax&amp;rdquo;. I search 
 Tracks&amp;rsquo; Information Moon This track was first appeared in my &amp;ldquo;Digital Monster: Tamer&amp;rdquo; album in 2015. The song is intended to describe an encounter with a grand moon pouring the moonlight in the room and clear the mood of the whole environment.</description>
     </item>
     
+    <item>
+      <title>Hello World</title>
+      <link>https://kvar-ispw17.tk/post/hello-world/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvar-ispw17.tk/post/hello-world/</guid>
+      <description>This is a test for generating post pages by hugo.
+By the way, Hello World!.</description>
+    </item>
+    
   </channel>
 </rss>
