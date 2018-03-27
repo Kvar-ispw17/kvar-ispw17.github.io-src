@@ -1,11 +1,12 @@
 ---
-title: "About KiLExq Studio"
+title: "About KiLEx-Q Studio"
 date: 2018-03-23T18:05:14+08:00
 ---
-KiLExq Studio <font size=5>/ ki-laks stoo-dee-oh /</font> is a **Music**, **Game** and **Software** producing studio founded by Kvar\_ispw17 in March 23, 2018.
+KiLEx-Q Studio <font size=5>/ ki-laks-Q-stoo-dee-oh /</font> is a **Music**, **Game** and **Software** producing studio founded by Kvar\_ispw17 in March 23, 2018.
 Kvar\_ispw17 is currently a senior high school student in Shijiazhuang, Hebei, China.
 
-Music works, Game works, Software works are independent parts of the products of KiLExq Studio.
+Music works, Game works, Software works are independent parts of the products of KiLEx-Q Studio.
+"Kilexq Studio" will be the name of the studio in official occasions.
 
 <br/>
 
@@ -16,11 +17,11 @@ Music works, Game works, Software works are independent parts of the products of
 
 #### Why this name?
 
-It's from a word "relax". I search "KiLExq" on Google and found that nobody used this name before (the name need to be unique and symbolic as I think).
+It's from a word "relax". I search "KiLEx-Q" on Google and found that nobody used this name before (the name need to be unique and symbolic as I think).
 
-#### How to ask for detailed information about KiLExq Studio?
+#### How to ask for detailed information about KiLEx-Q Studio?
 
-Contact KiLExq Studio at [kilexqstudio@kvar-ispw17.tk](mailto:kilexqstudio@kvar-ispw17.tk).
+Contact KiLEx-Q Studio at [kilexqstudio@kvar-ispw17.tk](mailto:kilexqstudio@kvar-ispw17.tk).
 
 #### Why use the free .tk domain?
 
