@@ -2,6 +2,9 @@
 title: "About KiLEx-Q Studio"
 date: 2018-03-23T18:05:14+08:00
 ---
+
+![KiLEx-Q-Studio-Logo.png](/images/KiLEx-Q-Studio-Logo.png)
+
 KiLEx-Q Studio <font size=5>/ ki-laks-Q-stoo-dee-oh /</font> is a **Music**, **Game** and **Software** producing studio founded by Kvar\_ispw17 in March 23, 2018.
 Kvar\_ispw17 is currently a senior high school student in Shijiazhuang, Hebei, China.
 
