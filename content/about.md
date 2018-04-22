@@ -1,12 +1,11 @@
 ---
-title: "About KiLEx-Q Studio"
+title: "About Kreational Studio"
 date: 2018-03-23T18:05:14+08:00
 ---
-KiLEx-Q Studio <font size=5>/ ki-laks-Q-stoo-dee-oh /</font> is a **Music**, **Game** and **Software** producing studio founded by Kvar\_ispw17 in March 23, 2018.
+Kreational Studio is a **Music**, **Game** and **Software** producing studio founded by Kvar\_ispw17 in March 23, 2018.
 Kvar\_ispw17 is currently a senior high school student in Shijiazhuang, Hebei, China.
 
-Music works, Game works, Software works are independent parts of the products of KiLEx-Q Studio.
-"Kilexq Studio" will be the name of the studio in official occasions.
+Music works, Game works, Software works are independent parts of the products of Kreational Studio.
 
 <br/>
 
@@ -15,13 +14,9 @@ Music works, Game works, Software works are independent parts of the products of
 </p>
 <br/>
 
-#### Why this name?
+#### How to ask for detailed information about Kreational Studio?
 
-It's from a word "relax". I search "KiLEx-Q" on Google and found that nobody used this name before (the name need to be unique and symbolic as I think).
-
-#### How to ask for detailed information about KiLEx-Q Studio?
-
-Contact KiLEx-Q Studio at [kilexqstudio@kvar-ispw17.tk](mailto:kilexqstudio@kvar-ispw17.tk).
+Contact Kreational Studio at [kilexqstudio@kvar-ispw17.tk](mailto:kilexqstudio@kvar-ispw17.tk).
 
 #### Why use the free .tk domain?
 
