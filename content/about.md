@@ -2,7 +2,14 @@
 title: "About Kreational Studio"
 date: 2018-03-23T18:05:14+08:00
 ---
+<<<<<<< HEAD
 Kreational Studio is a **Music**, **Game** and **Software** producing studio founded by Kvar\_ispw17 in March 23, 2018.
+=======
+
+![KiLEx-Q-Studio-Logo.png](/images/KiLEx-Q-Studio-Logo.png)
+
+KiLEx-Q Studio <font size=5>/ ki-laks-Q-stoo-dee-oh /</font> is a **Music**, **Game** and **Software** producing studio founded by Kvar\_ispw17 in March 23, 2018.
+>>>>>>> 72b813f68f5bfef8e67737f212e80a5fb133bab9
 Kvar\_ispw17 is currently a senior high school student in Shijiazhuang, Hebei, China.
 
 Music works, Game works, Software works are independent parts of the products of Kreational Studio.
