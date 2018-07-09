@@ -1,5 +1,5 @@
 baseurl = "https://kvar-ispw17.tk"
-title = "KiLEx-Q Studio's"
+title = "MUONIC STUDIO"
 copyright = "Copyright (c) 2017 - 2018, Kvar_ispw17 all rights reserved."
 languageCode = "en-US"
 canonifyurls = true
@@ -39,7 +39,7 @@ pygmentsCodeFences = true
 
 [params.meta]
   keywords = ""
-  description = "Kreational Studio Official Website"
+  description = "MUONIC STUDIO Official Website"
 
 [params]
   email = "enkerewpo@gmail.com"
